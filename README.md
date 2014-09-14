@@ -1,4 +1,4 @@
 AndroidCustomProgressDialog
 ===========================
 
-![alt tag](https://raw.github.com/gnut3ll4/AndroidCustomProgressDialog/customprogressbar.png)
+![alt tag](https://github.com/gnut3ll4/AndroidCustomProgressDialog/blob/master/customprogressbar.png)
